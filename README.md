@@ -1,2 +1,1 @@
-# EduApp
-educational app-team2
+# Educational-application
